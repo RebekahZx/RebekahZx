@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Shrinivas Anavekar from Karnataka, India<br><br>- 📚 I'm currently learning about Machine learning<br>- ⚡ In my free time I exert myself</p>
+<p align="left">I'm Shrinivas Anavekar from Karnataka, India<br><br>- 📚 I'm currently learning about Machine learning<br>- ⚡ In my free time I exert myself - _ -</p>
 
 ###
 
