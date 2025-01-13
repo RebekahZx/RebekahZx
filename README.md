@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm Shrinivas Anavekar from Karnataka, India<br><br>- 📚 I'm currently learning about Machine learning<br>- ⚡ In my free time I exert myself - _ -</p>
+<p align="left">I'm Shrinivas Anavekar from Karnataka, India<br><br> 🎓 CSE Major at SRM Institute of Science and Technology, Chennai.<br><br>
+🌐 Passionate about web development, artificial intelligence, and solving real-world problems with technology.<br><br>
+🤝 Open to collaborating on open-source projects and innovative ideas.<br><br>
+🌱 Currently learning advanced AI techniques and full-stack development.<br><br>
+ <br>- ⚡ In my free time I exert myself - _ -</p>
 
 ###
 
@@ -58,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RebekahZx/RebekahZx/output/snake.svg" alt="Snake animation" />
+
 
 ###
